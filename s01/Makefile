@@ -41,7 +41,7 @@ INDIVIDUALS_CPP=$(addsuffix .out, $(sort $(subst .cpp,,$(SIMPLES_CPP) $(LETTERED
 
 OBJECTS=$(MAIN_OBJECT) $(C_OBJECTS) $(CPP_OBJECTS) $(C_SUPPORT_OBJECTS)
 # TARGET is the only line in this file specific to the CWE
-TARGET=CWE122_s01
+TARGET=CWE190_s01
 
 all: $(TARGET)
 
