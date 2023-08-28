@@ -1,0 +1,7 @@
+organization=anzosasuke
+projectKey=anzosasuke_memory_leak
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.36818
+dashboardUrl=https://sonarcloud.io/dashboard?id=anzosasuke_memory_leak
+ceTaskId=AYXneW0ng3sBCK0iZjRf
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYXneW0ng3sBCK0iZjRf
